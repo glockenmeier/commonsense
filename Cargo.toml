@@ -1,0 +1,15 @@
+[package]
+name = "commonsense"
+version = "0.0.1"
+edition = "2024"
+authors = ["Darius Glockenmeier <d.glockenmeier@gmail.com>"]
+description = "Personal ritual library of ergonomic Rust utilities"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/glockenmeier/commonsense"
+homepage = "https://github.com/glockenmeier/commonsense"
+documentation = "https://docs.rs/commonsense"
+readme = "README.md"
+keywords = ["macros", "ergonomics", "rituals"]
+categories = ["development-tools", "rust-patterns"]
+
+[dependencies]
